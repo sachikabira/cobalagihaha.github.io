@@ -1,0 +1,11 @@
+.jumbotron bg {
+  background-position: center;
+  height: 100%;
+}
+
+@media (min-width: 800px) {
+  .font-res {
+    padding-top: 150px;
+  }
+}
+
